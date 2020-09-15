@@ -1,0 +1,120 @@
+\documentclass[11pt]{IEEEtran}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+
+\title{Teoria General De Los Sistemas}
+\author{Yerson Yair Leiva Ubillus, yersonleiva903@hotmail.com, 6012216}
+
+
+\date{22/08/2020}
+\begin{document}
+\maketitle
+\textbf{Resumen}
+El trabajo de investigacion que presentamos a continuacion hace referencia a las lecturas dejadas en plataforma  por el profesor Oscar Eduardo Ortiz Pinzón, las cuales dejan una enseñansa de liderazgo y su diferentes aplicasiones dentro de un problema, tambien podemos observar como la tecnologia a impactado en las industrias y el desempleo mundial.
+
+\section{Introducion}
+En el Trabajo se halara de como que calases de liderasgos pueden aver y que aspectos tiene cada liderazgo o componentes de un grupo de trabajo, y tambien se expondra el impacto de la tecnologia en el ambito laboral ya que en 10 o 20 años van aver mas maquinas en la industria que personas trabajando.
+
+
+\section{lectura 1}
+En una importante compañia de alimentos realizan y empacan varios productos alimenticios, con 350 empleados se descubre que hay dos problemas factibles, los cuales se lleva acabo que los empleados se implicarana mas y el otro problema es la mejora de sus procesos de toma de decisiones en la selecion de nuevos productos.
+
+\begin{enumerate}
+    \item Los trabajadores expresaron que los gerentes no los escuchaban o tomaban ventaja de sus sugerencias?
+    
+    \begin{itemize}
+    \item \textbf{R/=} Por medio de las encuestas realizadas nos damos cuenta que los trabajadores tiene buenas ideas para mejorar los procesos de la empresa.
+    \end{itemize}
+        
+    \item Los trabajadores no eran empoderados para hacer los cambios para los cuales tenían las habilidades y
+    los recursos necesarios?
+    
+    \begin{itemize}
+    \item\textbf{R/=} Los empleados tenain buenas ideas pero la gerencia no los escuchaban por eso se ahce la pregunta si el trabajdo era emprendedor.
+    \end{itemize}
+    
+    \item La alta gerencia era dependiente para la toma de decisiones de sus ejecutivos corporativos, los que se
+    encontraban a tres mil millas de distancia?
+    
+    \begin{itemize}
+    \item \textbf{R/=} Esto da la conclusion de que los empleados ya avian sitetizado pratones y conocimientos para llevar acabo nuevas actividades para la mejor producion de  alimentos en la empresa.
+    \end{itemize}
+
+\end{enumerate}
+\section{lectura 2}
+\begin{enumerate}
+
+    \item Quien es el líder usualmente no tiene la respuesta, explique su respuesta:
+    \begin{itemize}
+    \item \textbf{R/=} Un lider cuando se enferenta a diversoso problemas puede tener uno o varias respuestas
+    por eso deve llevar acabo una evaluacion de las posibles soluciones al problema, con esta evaluacion ve cual es la mas factible y cual puede ser aplicable al problema.
+    \end{itemize}
+    
+    \item El rol del líder es hacer que los seguidores asuman su responsabilidad (una tarea poco popular), por ejemplo
+    quienes creen ustedes:
+    \begin{itemize}
+    \item \textbf{R/=} En el siglo que nos encontramos se me 
+    hace muy usual mencionar a los influencer ellos toman el rol de lider por medio de susu redes sociales haciendo retos o teniendo un tema en especifico el cual le generan la duda o la intencion a sus seguidores para que llevan acabo esta tarea. es poco usual ver esto peor el marketin que manejan es bastante amplio el cual les ayuda a tener un liderasgo adapativo a las cituasiones que se presentan.
+    \end{itemize}
+    
+    \item Que las soluciones para lograr progresos en el desafío pueden tomar bastante tiempo para ser construidas y
+    en cualquier caso sólo podrán aspirar a que sea“la más apropiada” vs “la mejor”
+    \begin{itemize}
+    \item \textbf{R/=} Las soluciones plateadas que se puede llevar a cabo para solucionar determinado problema se puede ver de dos formas distintas una que puede ser la mas factivbkle y la otra la mejor solucion a implementar esta decision ya la toma el lider del proyecto o por su defecto depende edel problea al cual se necesita solucionar.
+    \end{itemize}
+    
+    \item los individualistas que tienen una baja adhesión a las reglas y roles y una baja adhesión los grupos, explique
+    cuales son los individualistas.
+    \begin{itemize}
+    \item \textbf{R/=} Los individualistas son aquellas pensonas que no contirbullen a la labor de los otros y se concentrar en sus actividades y no aprtan al grupo o por si solo cren poder hacer el trabajo de solucionar problemas y no requieren de ayuda , estas personas no pueden trabajar en equipo ya que seria una carga y no contibuiria de buena forma al egrupo.  
+    \end{itemize}
+    
+    \item  los fatalistas que son personas con una alta adhesión a las reglas y una baja adhesión a los grupo
+    \begin{itemize}
+    \item \textbf{R/=} las personas facilistas son las que 
+    piensasn como ya saben el proceso de fabricacion  de manejo de la informacion de la empresa son aquellas  que no aportan a las nuevas ignovaciones ya que cren ser buenos en su trabajo ya que saben sus labores estos no aportan a grupos ni tranajos en equipo. 
+    \end{itemize}
+    
+    \item  los igualitarios que se caracterizan por una alta adhesión al grupo y una baja adhesión a las reglas y roles
+    \begin{itemize}
+     \item \textbf{R/=} Estas personas igualitarias se caracterizan de tranajar en grupo peor que las obligaciones o tareas de los demas contengan lo mismo o la misma cantidad de trabajo o tares para todo estas personas no decean tener ningun tipo de rol en ningun grupo para poder evitar reglas  que puden tener estos mismo.
+    \end{itemize}
+
+   \item los jerarquistas (hierarchist en inglés) con una alta adhesión a las reglas y roles y una alta orientación al grupo.
+   \begin{itemize}
+     \item \textbf{R/=} estas personas las cuales tiene jerarquias en un grupo aportan al mismo siguien las reglas y son proactivas generando ideas nuevas para la inovacion y crecimientode los nuevos proyectos , ayudan a resolver problemas y escuchan nuevas ideas.
+   \end{itemize}
+\end{enumerate}
+
+\section{salvese quien pueda}
+\begin{enumerate}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\textwidth]{imagenes/salvese.jpg}
+    \caption{Portada del libro}
+    \label{salvese}
+\end{figure}
+
+     \item Describa que son los tecno-Optimistas y tecno-Negativistas y sus características
+     
+   \begin{itemize}
+       \item \textbf{R/=tecno-Optimista}  Las personas tecno-Optimistas son aquellas que dicen que la tecnologia nos va a remplazar pero genera nuevos empleos a mi concepto la mano de obra barata tiende a desaparecer para entar en una epoca difrente la cual la tecnologia va hacer la que tranaje por nosotro pero necesaria mente nos va a necesitar ya que nosotros como seres pensantes sabemos como manegarlas o hacerles mantenimiento. a las personas tecno-Optimistas las caracterisa el positivismo que implica la evolucion de las tecnologias en el ambito laboral ya que esto nos va a llevar a un punto de equilibrio para que las personas no tengan que esforzarse para llevar acabo todas las actividades laborales las cules hoy por dia ya estan siedo remplasadas por la tecnologia
+       \item \textbf{R/=tecno-Negatvistas}  Las personas tecno-Negativistas son aquellos que piensan que la tecnologia va  allegar a gobernar el mundo tal que las personas que sepan controlarla van a gobernar y las que no no van a poder surguir ni laborar ya que no tiene conocimiento de la indiustria tecnologia y los trabajos de estas personas son mas manuelas y precensiales los cuales para ellos seran remplasados con tecnologias ellos tiene la caracteristica de no aportar mucho a las tecnologias ni aprender de ella ya que estas van a hacer su remplazo en la industria
+       \end{itemize}
+
+       \item Hasta donde lleva del libro que le ha parecido en pocas palabras y cree que este libro le ha servido en su camino profesional.
+
+\begin{itemize}
+    \item \textbf{R/=} En el momento no e tenido mucho tiempo de leer el libro voy en EL DESEMPLEO TECNOLÓGICO por el momento e leido mas de las acciones que a tenido la tecnologia con el desempleo mundial y con varios factores generados en varias empresar muy grandes las cules an sido remplazadas por el marketin de otras que no son tan grandes y manejan poco personal, esto me a ayudado profesionalmente en creer y querer mas la carrera la que estoy estudiando ya que es voy a estar en constante actualizacion de los nuevos sistemas para poder aportar a las nuevas tecnologias que llegan.
+\end{itemize}
+
+\end{enumerate}
+\section{REFERENCIAS}
+[1] Lectura Obligatoria.docx, Oscar Eduardo Ortiz Pinzón
+Oscardo.ortiz@gmail.com
+
+[2]Lectura Obligatoria II.docx, Oscar Eduardo Ortiz Pinzón
+Oscardo.ortiz@gmail.com
+
+[3] ¡SALVESE QUIEN PUEDA!, ANDRES OPPENHEIMER,  https://c1.campusvirtualurepublicana.edu.co/pluginfile.php/70061/mod_resource/content/1/Sa%CC%81lvese%20quien%20pueda%20Andres%20Oppenheimer.pdf,
+\end{document}
